@@ -135,6 +135,6 @@ Feel free to fork the repository, open issues, or submit a pull request.
 
 ## 👩‍💻 Author
 
-**Varsha**
+**Varshaa**
 
 If you liked this project, consider giving it a ⭐ on GitHub. It motivates me to build more projects and keep learning!
