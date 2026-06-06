@@ -111,19 +111,6 @@ It was also a great opportunity to learn:
 
 ---
 
-## 📸 Demo
-
-Add screenshots of your application here.
-
-### Home Page
-
-<img src="screenshots/home.png" width="800"/>
-
-### Recipe Results
-
-<img src="screenshots/results.png" width="800"/>
-
----
 
 ## 🌱 Future Improvements
 
